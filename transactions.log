@@ -1,0 +1,1 @@
+[2026-03-19 09:07:21] {"Body": {"stkCallback": {"ResultCode": 0, "CallbackMetadata": {"Item": [{"Name": "Amount", "Value": 250.5}, {"Name": "MpesaReceiptNumber", "Value": "RDL99K8S2W"}, {"Name": "TransactionDate", "Value": 20260319090000}, {"Name": "PhoneNumber", "Value": 254712345678}]}}}}
